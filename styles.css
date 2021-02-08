@@ -3,7 +3,7 @@
 }
 .picture{
     position: relative;
-    left: 422px;
+    left: 350px;
 }
 .carousel-item img{
     height: 320px;
@@ -69,6 +69,10 @@ nav{
     width: 100px;
     position: relative;
     left:109px;
+}
+#foot{
+    background-color: red;
+    height: 220px;
 }
 @media (max-width: 640px) {
    .picture{
