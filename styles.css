@@ -1,0 +1,81 @@
+.nav-link{
+    color: white;
+}
+.picture{
+    position: relative;
+    left: 422px;
+}
+.carousel-item img{
+    height: 320px;
+    max-width: 100%;
+}
+.container{
+    margin-top: 20px;
+}
+.nav{
+    position:relative;
+    bottom:67px;
+}
+#picli{
+    position:relative;
+    bottom:13px;
+}
+nav{
+    height: 155px;
+}
+.para{
+    width: 266px;
+}
+.imap img{
+    height: 165px;
+    width: 266px;
+    margin-right: 40px;
+    border-radius: 10px;
+}
+.imap img:hover{
+    box-shadow: 5px 5px 10px turquoise;
+}
+.info{
+    margin-top: 50px;
+    
+}
+.last{
+    margin-bottom: 10px;
+}
+.descriptperso p{
+    text-align: center;
+    position: relative;
+    right: 160px;
+}
+.perso2{
+    position: relative;
+    left: 877px;
+    bottom: 40px;
+   
+}
+.perso2 p{
+    display: inline;
+}
+.ph1 img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    right: 109px;
+}
+.ph2 img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left:109px;
+}
+@media (max-width: 640px) {
+   .picture{
+       display:none;
+   }
+   .nav-item{
+       margin-top:-15px ;
+   }
+    }
+
